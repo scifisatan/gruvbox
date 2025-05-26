@@ -11,3 +11,4 @@ This folder sits inside `.config/abi/`
 - wallpapers - [gruvbox-wallpapers](https://gruvbox-wallpapers.pages.dev/)
 - icons - [gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack#download)
 - chrome - [gruvbox-material-dark](http://chromewebstore.google.com/detail/gruvbox-material-dark/fjofdcgahcnlkdjapcbeonbnmjdnfcki)
+- ghsotty = GruvboxDarkHard
